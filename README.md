@@ -14,12 +14,18 @@ The aim of this project is to give discord users quick and easy access to comman
 ## 📄 Requirements
 - [python](https://www.python.org/downloads/release/python-3922/)
 - [discord.py](https://discordpy.readthedocs.io/en/stable/intro.html#installing)
+- [Initialize your own Discord bot](https://discord.com/developers/applications)
+- pip install Google API client library
+  ```terminal
+   pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+  ```
 
 ## 🔑 API Keys Required
-- Discord token
-- Weather API key
-- Google API key & search ID
-- OpenAI API key
+- [Discord token](https://discord.com/developers/applications)
+- [Weather API key](https://www.weatherapi.com/)
+- [Google API key](https://code.google.com/apis/console)
+- [Google search engine ID](https://programmablesearchengine.google.com/controlpanel/create)
+- [OpenAI API key](https://platform.openai.com/api-keys)
 > [!NOTE]
 > You’ll need to obtain these keys yourself and add them to a config.py file:
 
