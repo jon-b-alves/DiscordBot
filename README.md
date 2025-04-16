@@ -38,3 +38,6 @@ OPEN_AI_API_KEY = 'your_open_ai_api_key_here'
 ```
 
 ## 📦 Installation
+```terminal
+git clone https://github.com/jon-b-alves/DiscordBot.git
+```
